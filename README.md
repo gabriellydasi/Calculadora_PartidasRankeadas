@@ -12,12 +12,12 @@ O objetivo do programa é permitir que o usuário crie e visualize informações
 - Vitórias entre 51 e 80 -> Nível Outro
 - Vitórias entre 81 e 90 -> Nível Diamante
 - Vitórias entre 91 e 100 -> Nível Lendário
-- Vitórias acima de 101 -> Nível Imortal
+- Vitórias acima de 100 -> Nível Imortal
 
 #### Funções de retorno
 ![image](https://github.com/gabriellydasi/Calculadora_PartidasRankeadas/assets/108135153/763e09e2-8d82-45ec-b8a6-5a47c2462488)
 
-#### Estrutura de decisão do-while atrelada à função main
+#### Estrutura de repetição *do-while* atrelada à função main
 ![image](https://github.com/gabriellydasi/Calculadora_PartidasRankeadas/assets/108135153/a7e8d1f7-48a8-483e-bb6f-c958e9a382dd)
 
 ### 📱 Imagens
