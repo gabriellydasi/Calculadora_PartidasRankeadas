@@ -6,7 +6,7 @@
 O objetivo do programa é permitir que o usuário crie e visualize informações de personagens de um jogo. Ele solicita dados como nome, classe, quantidade de vitórias e derrotas de um personagem e, em seguida, calcula o saldo de vitórias e determina seu nível de classificação com base na quantidade de vitórias. É adicionado funções de retorno que visam tornar o código mais semântico, além de estrutura de repetição que fornece autonomia ao usuário. O programa visa fornecer uma representação simples e interativa das estatísticas e classificação dos personagens do jogo. 
 
 #### Níveis de classificação baseados em vitórias
-- Vitórias menores que 10 -> Nível Ferro
+- Vitórias menores ou iguais a 10 -> Nível Ferro
 - Vitórias entre 11 e 20 -> Nível Bronze
 - Vitórias entre 21 e 50 -> Nível Prata
 - Vitórias entre 51 e 80 -> Nível Outro
