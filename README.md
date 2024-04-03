@@ -3,7 +3,7 @@
 ## Desafio 2: Calculadora de Partidas Rankeadas 
 
 ### 💡 Sobre o projeto
-O objetivo do programa é permitir que o usuário crie e visualize informações de personagens de um jogo. Ele solicita dados como nome, classe, quantidade de vitórias e derrotas de um personagem e, em seguida, calcula o saldo de vitórias e determina o nível de classificação do personagem com base na quantidade de vitórias. É adicionado funções de retorno que visam tornar o código mais semântico, além de estrutura de repetição que fornece autonomia ao usuário. O programa visa fornecer uma representação simples e interativa das estatísticas e classificação dos personagens do jogo. 
+O objetivo do programa é permitir que o usuário crie e visualize informações de personagens de um jogo. Ele solicita dados como nome, classe, quantidade de vitórias e derrotas de um personagem e, em seguida, calcula o saldo de vitórias e determina seu nível de classificação com base na quantidade de vitórias. É adicionado funções de retorno que visam tornar o código mais semântico, além de estrutura de repetição que fornece autonomia ao usuário. O programa visa fornecer uma representação simples e interativa das estatísticas e classificação dos personagens do jogo. 
 
 #### Níveis de classificação baseados em vitórias
 - Vitórias menores que 10 -> Nível Ferro
