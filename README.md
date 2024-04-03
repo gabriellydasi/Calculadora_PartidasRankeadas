@@ -15,7 +15,8 @@ O objetivo do programa é permitir que o usuário crie e visualize informações
 - Vitórias acima de 100 -> Nível Imortal
 
 #### Funções de retorno
-![image](https://github.com/gabriellydasi/Calculadora_PartidasRankeadas/assets/108135153/763e09e2-8d82-45ec-b8a6-5a47c2462488)
+![image](https://github.com/gabriellydasi/Calculadora_PartidasRankeadas/assets/108135153/3397f745-616e-4452-bde2-403cb4d890a7)
+
 
 #### Estrutura de repetição *do-while* atrelada à função main
 ![image](https://github.com/gabriellydasi/Calculadora_PartidasRankeadas/assets/108135153/a7e8d1f7-48a8-483e-bb6f-c958e9a382dd)
