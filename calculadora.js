@@ -8,7 +8,7 @@ function saldo_vitorias(vitorias, derrotas) {
 // Função que calcula o nível do personagem
 function calcular_nivel(vitorias) {
     let nivel;
-    if (vitorias < 10) {
+    if (vitorias <= 10) {
         nivel = "Ferro";
     } else if (vitorias >= 11 && vitorias <= 20) {
         nivel = "Bronze";
